@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/09 15:37:43.000.719,=C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\Unit23.pas</Transaction>
+    <Transaction>2020/03/09 15:37:43.000.880,=C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2020/03/09 15:37:43.000.988,=C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2020/03/13 13:59:38.000.351,=C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\Unit23.pas</Transaction>
+    <Transaction>2020/04/18 21:01:30.000.321,=C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\Unit23.pas</Transaction>
+    <Transaction>2020/04/18 21:01:57.000.029,C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\Unit23.dfm=C:\Users\t_thiago.irrazabal\Documents\SokoBox\StageCreator\ufrmStageCreator.dfm</Transaction>
+    <Transaction>2020/04/18 21:01:57.000.029,C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\Unit23.pas=C:\Users\t_thiago.irrazabal\Documents\SokoBox\StageCreator\ufrmStageCreator.pas</Transaction>
+    <Transaction>2020/04/18 21:02:06.000.817,C:\Users\t_thiago.irrazabal\Documents\Embarcadero\Studio\Projects\Project20.dproj=C:\Users\t_thiago.irrazabal\Documents\SokoBox\StageCreator\StageCreator.dproj</Transaction>
+    <Transaction>2020/04/18 21:12:06.000.637,=C:\Users\t_thiago.irrazabal\Documents\SokoBox\Classes\StageJSON\uStageJSON.pas</Transaction>
+    <Transaction>2020/04/18 21:14:22.000.136,=C:\Users\t_thiago.irrazabal\Documents\SokoBox\Factorys\StringFactory.pas</Transaction>
+  </Transactions>
+</BorlandProject>
